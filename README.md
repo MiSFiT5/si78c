@@ -1,3 +1,11 @@
+# si78c_lhy
+this file is the modified version of original si78c. the author add the comments on the file to make it more readable.
+Besides, the author uses VS code for editing and the language of comments is Chinese.
+
+
+
+
+
 # si78c
 
 `si78c` is a memory accurate reimplementation of the 1978 arcade game Space Invaders in C.
